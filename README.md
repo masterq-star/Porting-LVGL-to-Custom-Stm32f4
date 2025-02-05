@@ -1,4 +1,4 @@
-# 5️ Porting LVGL to Custom Hardware
+# Porting LVGL to Custom Hardware
 
 ## 📌 Description:
 - **Ported LVGL** (Light and Versatile Graphics Library) to a **custom STM32-based hardware platform**.
@@ -20,3 +20,5 @@
 - **C++** programming language
 - **FreeRTOS** real-time operating system
 - **Touchscreen Interface** for user interaction
+## 📌 Hardware:
+![LVGL Demo](HARDWARE/Untitled.png)
