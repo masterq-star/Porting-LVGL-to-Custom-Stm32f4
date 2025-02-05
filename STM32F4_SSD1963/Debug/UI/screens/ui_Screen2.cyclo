@@ -1,0 +1,5 @@
+lv_color.h:602:26:lv_color_make	1
+lv_color.h:607:26:lv_color_hex	1
+lv_area.h:263:26:lv_pct	2
+lv_slider.h:97:20:lv_slider_set_range	1
+ui_Screen2.c:8:6:ui_Screen2_screen_init	1

@@ -1,0 +1,9 @@
+../touch/xpt2046.c:37:6:xpt2046_init	4	static
+../touch/xpt2046.c:47:13:delay_nus	24	static
+../touch/xpt2046.c:66:22:WR_CMD	32	static
+../touch/xpt2046.c:78:12:RD_AD	16	static
+../touch/xpt2046.c:97:5:Read_X	16	static
+../touch/xpt2046.c:114:5:Read_Y	16	static
+../touch/xpt2046.c:131:6:TP_GetAdXY	24	static
+../touch/xpt2046.c:148:13:Read_Value	120	static
+../touch/xpt2046.c:226:7:xpt2046_read	40	static

@@ -1,0 +1,10 @@
+../Core/Inc/../../lvgl/src/core/../misc/lv_anim.h:119:20:lv_anim_set_var	16	static
+../Core/Inc/../../lvgl/src/core/../misc/lv_anim.h:131:20:lv_anim_set_exec_cb	16	static
+../Core/Inc/../../lvgl/src/core/../misc/lv_anim.h:141:20:lv_anim_set_time	16	static
+../Core/Inc/../../lvgl/src/core/../misc/lv_anim.h:151:20:lv_anim_set_delay	16	static
+../Core/Inc/../../lvgl/src/core/../misc/lv_anim.h:162:20:lv_anim_set_values	24	static
+../Core/Inc/../../lvgl/src/core/lv_disp.h:163:26:lv_scr_act	8	static
+../Core/Inc/../../lvgl/src/core/lv_disp.h:186:20:lv_scr_load	16	static
+../touch/lvgl_touchscreen_cal.c:41:1:clamp	16	static
+../touch/lvgl_touchscreen_cal.c:49:6:touchscreen_cal_create	16	static
+../touch/lvgl_touchscreen_cal.c:89:13:btn_click_action	128	static

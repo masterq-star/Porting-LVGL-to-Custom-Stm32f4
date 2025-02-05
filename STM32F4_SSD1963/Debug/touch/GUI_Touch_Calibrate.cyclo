@@ -1,0 +1,5 @@
+GUI_Touch_Calibrate.c:33:5:perform_calibration	7
+GUI_Touch_Calibrate.c:161:6:read_calibration	1
+GUI_Touch_Calibrate.c:216:6:exec_calibration	6
+GUI_Touch_Calibrate.c:479:5:calibrate_X	1
+GUI_Touch_Calibrate.c:491:5:calibrate_Y	1

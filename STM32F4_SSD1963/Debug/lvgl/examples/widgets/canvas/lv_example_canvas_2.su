@@ -1,0 +1,4 @@
+c:\users\quyzz\downloads\stm32f4_ssd1963\lvgl\src\misc\lv_color.h:602:26:lv_color_make	16	static
+c:\users\quyzz\downloads\stm32f4_ssd1963\lvgl\src\misc\lv_color.h:607:26:lv_color_hex	16	static
+../lvgl/examples/widgets/canvas/../../../src/core/lv_disp.h:163:26:lv_scr_act	8	static
+../lvgl/examples/widgets/canvas/lv_example_canvas_2.c:10:6:lv_example_canvas_2	40	static

@@ -1,0 +1,13 @@
+lv_anim.h:119:20:lv_anim_set_var	1
+lv_anim.h:131:20:lv_anim_set_exec_cb	1
+lv_anim.h:141:20:lv_anim_set_time	1
+lv_anim.h:162:20:lv_anim_set_values	1
+lv_anim.h:239:20:lv_anim_set_playback_delay	1
+lv_anim.h:249:20:lv_anim_set_repeat_count	1
+lv_animimg.c:57:12:lv_animimg_create	1
+lv_animimg.c:65:6:lv_animimg_set_src	1
+lv_animimg.c:73:6:lv_animimg_start	1
+lv_animimg.c:83:6:lv_animimg_set_duration	1
+lv_animimg.c:90:6:lv_animimg_set_repeat_count	1
+lv_animimg.c:104:13:lv_animimg_constructor	1
+lv_animimg.c:122:13:index_change	1

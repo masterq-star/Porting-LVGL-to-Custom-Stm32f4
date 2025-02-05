@@ -1,0 +1,3 @@
+Mcp4xxx.c:4:6:MCP41_setWiper	7
+Mcp4xxx.c:52:5:convertRange	1
+Mcp4xxx.c:58:6:CHANGE_TPS_REGISTER	1

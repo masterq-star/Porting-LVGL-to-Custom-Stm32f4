@@ -1,0 +1,9 @@
+xpt2046.c:37:6:xpt2046_init	1
+xpt2046.c:47:13:delay_nus	3
+xpt2046.c:66:22:WR_CMD	1
+xpt2046.c:78:12:RD_AD	1
+xpt2046.c:97:5:Read_X	1
+xpt2046.c:114:5:Read_Y	1
+xpt2046.c:131:6:TP_GetAdXY	1
+xpt2046.c:148:13:Read_Value	16
+xpt2046.c:226:7:xpt2046_read	2

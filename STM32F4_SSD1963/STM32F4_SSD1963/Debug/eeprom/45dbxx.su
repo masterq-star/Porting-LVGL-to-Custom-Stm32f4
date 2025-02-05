@@ -1,0 +1,10 @@
+../eeprom/45dbxx.c:107:9:AT45dbxx_Spi	32	static
+../eeprom/45dbxx.c:114:9:AT45dbxx_ReadStatus	16	static
+../eeprom/45dbxx.c:124:6:AT45dbxx_WaitBusy	16	static
+../eeprom/45dbxx.c:141:6:AT45dbxx_Resume	8	static
+../eeprom/45dbxx.c:148:6:AT45dbxx_PowerDown	8	static
+../eeprom/45dbxx.c:155:7:AT45dbxx_Init	16	static
+../eeprom/45dbxx.c:263:8:AT45dbxx_EraseChip	8	static
+../eeprom/45dbxx.c:276:8:AT45dbxx_ErasePage	16	static
+../eeprom/45dbxx.c:290:7:AT45dbxx_WritePage	16	static
+../eeprom/45dbxx.c:305:8:AT45dbxx_ReadPage	16	static

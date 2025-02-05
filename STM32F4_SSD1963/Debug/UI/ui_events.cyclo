@@ -1,0 +1,3 @@
+lv_slider.h:121:23:lv_slider_get_value	1
+ui_events.c:10:6:ChangeRPM	1
+ui_events.c:36:6:ChangeThrottle	1

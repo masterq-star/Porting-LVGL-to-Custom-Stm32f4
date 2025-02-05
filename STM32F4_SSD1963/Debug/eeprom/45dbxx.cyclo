@@ -1,0 +1,10 @@
+45dbxx.c:107:9:AT45dbxx_Spi	1
+45dbxx.c:114:9:AT45dbxx_ReadStatus	1
+45dbxx.c:124:6:AT45dbxx_WaitBusy	2
+45dbxx.c:141:6:AT45dbxx_Resume	1
+45dbxx.c:148:6:AT45dbxx_PowerDown	1
+45dbxx.c:155:7:AT45dbxx_Init	15
+45dbxx.c:263:8:AT45dbxx_EraseChip	1
+45dbxx.c:276:8:AT45dbxx_ErasePage	1
+45dbxx.c:290:7:AT45dbxx_WritePage	1
+45dbxx.c:305:8:AT45dbxx_ReadPage	2

@@ -1,0 +1,10 @@
+lv_area.h:133:26:lv_area_get_width	1
+lv_obj_pos.h:186:20:lv_obj_center	1
+lv_disp.h:163:26:lv_scr_act	1
+lv_slider.h:75:20:lv_slider_set_value	1
+lv_slider.h:86:20:lv_slider_set_left_value	1
+lv_slider.h:107:20:lv_slider_set_mode	1
+lv_slider.h:121:23:lv_slider_get_value	1
+lv_slider.h:131:23:lv_slider_get_left_value	1
+lv_example_slider_3.c:10:6:lv_example_slider_3	1
+lv_example_slider_3.c:25:13:slider_event_cb	4

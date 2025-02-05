@@ -1,0 +1,10 @@
+lv_anim.h:119:20:lv_anim_set_var	1
+lv_anim.h:131:20:lv_anim_set_exec_cb	1
+lv_anim.h:141:20:lv_anim_set_time	1
+lv_anim.h:151:20:lv_anim_set_delay	1
+lv_anim.h:162:20:lv_anim_set_values	1
+lv_disp.h:163:26:lv_scr_act	1
+lv_disp.h:186:20:lv_scr_load	1
+lvgl_touchscreen_cal.c:41:1:clamp	2
+lvgl_touchscreen_cal.c:49:6:touchscreen_cal_create	1
+lvgl_touchscreen_cal.c:89:13:btn_click_action	10

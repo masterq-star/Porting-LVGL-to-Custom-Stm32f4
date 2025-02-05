@@ -1,0 +1,16 @@
+lv_color.h:602:26:lv_color_make	1
+lv_color.h:674:26:lv_color_white	1
+lv_color.h:675:26:lv_color_black	1
+lv_area.h:133:26:lv_area_get_width	1
+lv_area.h:143:26:lv_area_get_height	1
+lv_anim.h:119:20:lv_anim_set_var	1
+lv_anim.h:131:20:lv_anim_set_exec_cb	1
+lv_anim.h:141:20:lv_anim_set_time	1
+lv_anim.h:162:20:lv_anim_set_values	1
+lv_anim.h:229:20:lv_anim_set_playback_time	1
+lv_anim.h:249:20:lv_anim_set_repeat_count	1
+lv_obj_pos.h:186:20:lv_obj_center	1
+lv_disp.h:163:26:lv_scr_act	1
+lv_example_bar_6.c:4:13:set_value	1
+lv_example_bar_6.c:9:13:event_cb	3
+lv_example_bar_6.c:49:6:lv_example_bar_6	1

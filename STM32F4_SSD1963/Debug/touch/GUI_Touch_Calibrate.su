@@ -1,0 +1,5 @@
+../touch/GUI_Touch_Calibrate.c:33:5:perform_calibration	104	static
+../touch/GUI_Touch_Calibrate.c:161:6:read_calibration	16	static
+../touch/GUI_Touch_Calibrate.c:216:6:exec_calibration	88	static
+../touch/GUI_Touch_Calibrate.c:479:5:calibrate_X	24	static
+../touch/GUI_Touch_Calibrate.c:491:5:calibrate_Y	24	static

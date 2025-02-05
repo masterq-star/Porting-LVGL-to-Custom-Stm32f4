@@ -1,0 +1,3 @@
+../Core/Inc/../../lvgl/src/widgets/lv_slider.h:121:23:lv_slider_get_value	16	static
+../UI/ui_events.c:10:6:ChangeRPM	32	static
+../UI/ui_events.c:36:6:ChangeThrottle	24	static

@@ -1,0 +1,4 @@
+../UI/ui.c:81:6:ui_event_ButtonWelcome	24	static
+../UI/ui.c:89:6:ui_event_SliderRPMControl	24	static
+../UI/ui.c:98:6:ui_event_ButtonWelcome1	24	static
+../UI/ui.c:109:6:ui_init	32	static
