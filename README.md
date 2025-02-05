@@ -22,3 +22,5 @@
 - **Touchscreen Interface** for user interaction
 ## 📌 Hardware:
 ![LVGL Demo](HARDWARE/Untitled.png)
+## 🎥 Demo Video  
+[![Watch the demo](https://i0.wp.com/socialkings.online/wp-content/uploads/2021/04/Artboard-1yt.png?fit=650%2C534&ssl=1)](https://www.youtube.com/watch?v=waBxkWTRSoI)
